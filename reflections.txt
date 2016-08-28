@@ -1,0 +1,11 @@
+Quais habilidades novas você aprendeu?
+Por enquanto não obtive nenhuma nova habilidade.
+
+O que foi fácil?
+90% do projeto.
+
+O que foi difícil?
+Achar os comandos para gerar a linha horizontal e o superscript text.
+
+Como você utilizou as estratégias de resolução de problemas para o primeiro projeto para superar desafios até o momento?
+Melhor aprendizado do curso até agora foi o de não desistir e buscar as repostar nos docs.
